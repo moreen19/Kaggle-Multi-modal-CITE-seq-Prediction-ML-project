@@ -1,4 +1,4 @@
-# Kaggle-Multi-modal-CITE-seq-Prediction-ML-project using Gaussiam solver and NMF coded from scratch.
+# Kaggle-Multi-modal-CITE-seq-Prediction-ML-project using Gaussian solver and NMF coded from scratch.
 
 In this project CITE-seq is a single-cell sequencing assay in which both gene and cell-surface protein expression is measured in single-cells. This "multi-modal" analysis allows for biological knowledge discovery about the relationships between protein markers of cell type and the underlying transcriptional (gene expression) state.
 
